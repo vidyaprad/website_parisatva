@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.cfab1a7b.css",
-    "main.js": "./static/js/main.0f0f03d8.js",
-    "index.html": "./index.html",
-    "main.cfab1a7b.css.map": "./static/css/main.cfab1a7b.css.map",
-    "main.0f0f03d8.js.map": "./static/js/main.0f0f03d8.js.map"
+    "main.css": "/vidyaprad/website_parisatva/static/css/main.cfab1a7b.css",
+    "main.js": "/vidyaprad/website_parisatva/static/js/main.0f0f03d8.js",
+    "index.html": "/vidyaprad/website_parisatva/index.html",
+    "main.cfab1a7b.css.map": "/vidyaprad/website_parisatva/static/css/main.cfab1a7b.css.map",
+    "main.0f0f03d8.js.map": "/vidyaprad/website_parisatva/static/js/main.0f0f03d8.js.map"
   },
   "entrypoints": [
     "static/css/main.cfab1a7b.css",
