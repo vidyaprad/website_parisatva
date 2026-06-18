@@ -2,7 +2,7 @@
   "name": "parisatva",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/vidyaprad/website_parisatva",
+  "homepage": "https://vidyaprad.github.io/website_parisatva/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
